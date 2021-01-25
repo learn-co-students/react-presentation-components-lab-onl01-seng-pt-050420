@@ -1,1 +1,0 @@
-// Code SimplerComponent Here
